@@ -1,5 +1,5 @@
 ### André Medeiros Moreno
-[![Linkedin Badge](https://img.shields.io/badge/-andrémoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andr%C3%A9moreno/)](https://www.https://www.linkedin.com/in/andr%C3%A9moreno/)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/andr%C3%A9moreno/)](https://www.linkedin.com/in/andr%C3%A9moreno/)
 
 <!--
 **andremmoreno/andremmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
