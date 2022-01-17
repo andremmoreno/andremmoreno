@@ -1,8 +1,7 @@
 <h1>André Medeiros Moreno<h1>
 
 <h2>Github Stats<h2>
-<p>
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=andremmoreno&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=andremmoreno&&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!--
 **andremmoreno/andremmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
