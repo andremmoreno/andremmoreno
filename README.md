@@ -1,7 +1,7 @@
 ### André Medeiros Moreno
 
-
-<p align="center" >
+<h1>Github Stats<h1>
+<p>
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=andremmoreno&show_icons=true&theme=merko"  > </p>
 
 <!--
