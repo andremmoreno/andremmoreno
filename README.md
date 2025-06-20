@@ -1,35 +1,47 @@
-### André Medeiros Moreno <a href="https://linkedin.com/in/andrémoreno"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+# 👋 Hi there! I'm André Moreno
 
-### Liguagens
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</p>
+🎯 Frontend Developer with a background in Electrical Engineering and a passion for building modern, user-friendly, and accessible interfaces.
 
-### Github Stats
-<div>
-  <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=andremmoreno&&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-</div>
+I have strong experience with **React**, **React Native**, and modern JavaScript tools.
 
-<!--
-**andremmoreno/andremmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, React Native, Next.js, TypeScript, JavaScript, HTML, CSS  
+- **Backend:** Node.js, NestJS  
+- **Tools:** Strapi, Firebase, BullMQ, Flagsmith, Docker, Storybook, Git, Figma
+
+---
+
+## 💼 Experience
+
+- 🛒 **Wine.com.br** – Since 2022  
+    Developer on React Native apps for Latin America's largest wine e-commerce platform, focused on performance, UX, and agile delivery.
+
+---
+
+## 📚 Education
+
+- Full Stack Web Development – **Trybe**  
+- Electrical Engineering – **Centro Universitário Senai Cimatec**
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese (native)  
+- 🇬🇧 English (professional)  
+- 🇫🇷 French (professional
+
+---
+
+## ✨ About Me
+
+I'm naturally curious and love solving problems through code. I’m a team player with a strong sense of responsibility, always eager to learn and explore new technologies—especially in the frontend world.
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/demoreno/](https://www.linkedin.com/in/andr%C3%A9moreno/]) or by email at demoreno2@hotmail.com.
