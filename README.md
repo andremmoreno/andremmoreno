@@ -44,4 +44,4 @@ I'm naturally curious and love solving problems through code. I’m a team playe
 
 ## 📫 Get in Touch
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/demoreno/](https://www.linkedin.com/in/andr%C3%A9moreno/]) or by email at demoreno2@hotmail.com.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andr%C3%A9moreno/) or by email at demoreno2@hotmail.com.
